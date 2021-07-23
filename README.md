@@ -5,7 +5,7 @@ We developed 3 main projects in this course.
  * 3- Multimedia content suggestion project (like Netflix or HBO)
 
 ### Group Members
- * João Cerqueira (up201806381@edu.fe.up.pt)
+ * Francisco Cerqueira (up201806381@edu.fe.up.pt)
  * Pedro Silva    (up201806526@edu.fe.up.pt)
 
 ### Project Grade
