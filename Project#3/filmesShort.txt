@@ -1,0 +1,100 @@
+Carmencita|Documentary|1|8.3
+Le clown et ses chiens|Animation|2|9.2
+Pauvre Pierrot|Animation|3|2.1
+Un bon bock|Animation|4|9.2
+Blacksmith Scene|Comedy|5|6.7
+Chinese Opium Den|Short|6|1.9
+Corbett and Courtney Before the Kinetograph|Short|7|3.5
+Edison Kinetoscopic Record of a Sneeze|Documentary|8|5.9
+Miss Jerry|Romance|9|9.6
+La sortie de l'usine Lumire Lyon|Documentary|10|9.7
+Akrobatisches Potpourri|Documentary|11|2.4
+L'arrive d'un train La Ciotat|Action|12|9.7
+Neuville-sur-Sane: Dbarquement du congrs des photographes Lyon|Documentary|13|9.6
+L'arroseur arros|Comedy|14|9.7
+Autour d'une cabine|Animation|15|8.2
+Barque sortant du port|Documentary|16|2.3
+Italienischer Bauerntanz|Documentary|17|4.8
+Das boxende Knguruh|Short|18|9.2
+The Clown Barber|Comedy|19|8.1
+The Derby 1895|Documentary|20|9.6
+Les forgerons|Documentary|21|6.9
+Baignade en mer|Documentary|22|1.3
+Opening of the Kiel Canal|News|23|8.6
+The Oxford and Cambridge University Boat Race|News|24|9.4
+Partie d'cart|Documentary|25|7.1
+Place des Cordeliers Lyon|Documentary|26|7.8
+La pche aux poissons rouges|Documentary|27|7.7
+Repas de bb|Documentary|28|4.5
+Rough Sea at Dover|Documentary|29|6.9
+Le saut la couverture|Documentary|30|2.5
+Die Serpentintnzerin|Short|31|7.4
+La voltige|Comedy|32|1.3
+Arrive d'un train gare de Vincennes|Documentary|33|3.5
+L'arroseur|Comedy|34|1.4
+Awakening of Rip|Drama|35|1.9
+Baignade en mer|Short|36|8.4
+The Ball Game|Documentary|37|7.3
+Barnet Horse Fair|Short|38|3.9
+Barque sortant du port de Trouville|Documentary|39|9.6
+Bataille de neige|Action|40|1.3
+Bateau-mouche sur la Seine|Documentary|41|4.9
+Batteuse vapeur|Documentary|42|4.4
+Le bivouac|Short|43|7.9
+Les blanchisseuses|Short|44|8.2
+Bois de Boulogne|Documentary|45|2.7
+Boulevard des Italiens|Documentary|46|5.4
+The Boxing Kangaroo|Short|47|5.0
+"Boxing Match; or, Glove Contest|Short|48|6.8"
+Bb et fillettes|Documentary|49|7.4
+Campement de bohmiens|Documentary|50|7.8
+Carga de rurales|Documentary|51|3.5
+A Chegada do Comboio Inaugural Estao Central do Porto|Documentary|52|7.1
+Les chevaux de bois|Short|53|6.9
+Le chiffonnier|Short|54|2.5
+Uma Corrida de Touros no Campo Pequeno|Short|55|2.1
+Cortge de tzar allant Versailles|Documentary|56|5.5
+Cortge de tzar au Bois de Boulogne|Documentary|57|9.6
+Couronnement de la rosire|Short|58|4.1
+Dancing Darkies|Documentary|59|6.3
+Dancing Girls|Short|60|3.0
+Danse serpentine|Short|61|7.8
+Dessinateur express|Short|62|3.3
+Dessinateur: Chamberlain|Short|63|5.6
+Dessinateur: Reine Victoria|Short|64|7.3
+Dessinateur: Von Bismark|Short|65|9.0
+Dix chapeaux en 60 secondes|Fantasy|66|9.6
+Dchargement de bateaux|Documentary|67|5.9
+Dfense d'afficher|Short|68|2.2
+Dmolition d'un mur|Documentary|69|2.3
+Dpart des automobiles|Short|70|3.3
+Dpart des officiers|Short|71|8.6
+Effets de mer sur les rochers|Documentary|72|3.3
+Enfants jouant sur la plage|Documentary|73|8.3
+Escamotage d'une dame au thtre Robert Houdin|Horror|74|3.2
+Exit of Rip and the Dwarf|Drama|75|9.4
+Le fakir, mystre indien|Short|76|4.1
+Feira de Gado na Corujeira|Documentary|77|2.8
+La gare Saint-Lazare|Documentary|78|3.3
+Grandes manoeuvres|Documentary|79|6.5
+Les haleurs de bateaux|Documentary|80|5.3
+A Hard Wash|Comedy|81|4.2
+Les indiscrets|Short|82|8.5
+Les ivrognes|Short|83|6.3
+Jardinier brlant des herbes|Short|84|5.9
+Jete et plage de Trouville (1er partie)|Documentary|85|9.3
+Jete et plage de Trouville (2e partie)|Documentary|86|3.6
+Jour de march Trouville|Documentary|87|7.8
+Dpart de Jrusalem en chemin de fer|Documentary|88|7.8
+Libration des territoriaux|Documentary|89|4.4
+Le manoir du diable|Horror|90|6.1
+Mare montante sur Brise-Larmes|Documentary|91|1.7
+Melbourne|Documentary|92|1.5
+Miss de Vere|Short|93|5.8
+Le papier prote|Short|94|8.0
+Place Saint-Augustin|Documentary|95|9.4
+Place de l'Opra, 1er aspect|Documentary|96|2.2
+Place de l'Opra, 2e aspect|Documentary|97|6.1
+Place de la Bastille|Documentary|98|5.2
+Place de la Concorde|Documentary|99|1.1
+Place du thtre franais|Documentary|100|4.0
