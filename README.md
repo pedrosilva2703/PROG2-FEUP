@@ -1,5 +1,5 @@
 ### Introduction
-[Course Page](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=420247)
+[Course Page](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=420247)  
 We developed 3 main projects in this course.
  * 1- Array sorting algorithms
  * 2- AVL trees and priority queues
